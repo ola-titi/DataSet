@@ -8,6 +8,6 @@
 
 ### Train-Propaganda-English.csv : contains the extracted English spans.
 
-This is the link to English news articles with the gold labels for all sets.: [https://propaganda.qcri.org/fine-grained-propaganda-emnlp.html]() 
+This is the link to English news articles with the gold labels for all sets.: [https://propaganda.qcri.org/fine-grained-propaganda-emnlp.html]() </br>
 This is the link to GitHub repo that contains Arabic spans: [https://github.com/ola-titi/Propaganda-Techniques-in-Arabic]()
 
