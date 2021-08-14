@@ -6,3 +6,5 @@
 
 ### Train-Propaganda-English.csv : contains the extracted English spans.
 
+This is the link to English news articles: [https://propaganda.qcri.org/fine-grained-propaganda-emnlp.html]()
+
